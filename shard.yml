@@ -8,6 +8,10 @@ targets:
   rlaunch:
     main: src/rlaunch.cr
 
+dependencies:
+  raylib-cr:
+    github: sol-vin/raylib-cr
+
 crystal: '>= 1.12.1'
 
 license: MIT
