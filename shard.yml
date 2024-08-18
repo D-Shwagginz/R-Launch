@@ -1,0 +1,13 @@
+name: rlaunch
+version: 0.1.0
+
+authors:
+  - D. Shwagginz <devin@shwaggi.nz>
+
+targets:
+  rlaunch:
+    main: src/rlaunch.cr
+
+crystal: '>= 1.12.1'
+
+license: MIT
